@@ -26,8 +26,8 @@ title: Погодинна няня
 
 | Тариф     &nbsp;&nbsp;   | Одна дитина   &nbsp;&nbsp; | Дві дитини   &nbsp;&nbsp; | Три дитини   &nbsp;&nbsp; |
 | ------------ &nbsp;&nbsp;| --------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; |
-| Standard   &nbsp;&nbsp;  | 420 грн       &nbsp;&nbsp; | 760 грн      &nbsp;&nbsp; | 1060 грн     &nbsp;&nbsp; |
-| Pro       &nbsp;&nbsp;   | 540 грн       &nbsp;&nbsp; | 1 000 грн    &nbsp;&nbsp; | 1 420 грн    &nbsp;&nbsp; |
+| Standard   &nbsp;&nbsp;  | 210 грн       &nbsp;&nbsp; | 380 грн      &nbsp;&nbsp; | 530 грн     &nbsp;&nbsp; |
+| Pro       &nbsp;&nbsp;   | 270 грн       &nbsp;&nbsp; | 500 грн    &nbsp;&nbsp; | 710 грн    &nbsp;&nbsp; |
 
 Ціни у таблиці вказані за одну годину.
 
@@ -39,8 +39,8 @@ title: Погодинна няня
 
 | Тариф     &nbsp;&nbsp;   | Одна дитина   &nbsp;&nbsp; | Дві дитини   &nbsp;&nbsp; | Три дитини   &nbsp;&nbsp; |
 | ------------ &nbsp;&nbsp;| --------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; | -------------&nbsp;&nbsp; |
-| Standard   &nbsp;&nbsp;  | 480 грн       &nbsp;&nbsp; | 880 грн      &nbsp;&nbsp; | 1240 грн     &nbsp;&nbsp; |
-| Pro       &nbsp;&nbsp;   | 640 грн       &nbsp;&nbsp; | 1 200 грн    &nbsp;&nbsp; | 1 720 грн    &nbsp;&nbsp; |
+| Standard   &nbsp;&nbsp;  | 240 грн       &nbsp;&nbsp; | 440 грн      &nbsp;&nbsp; | 620 грн     &nbsp;&nbsp; |
+| Pro       &nbsp;&nbsp;   | 320 грн       &nbsp;&nbsp; | 600 грн    &nbsp;&nbsp; | 860 грн    &nbsp;&nbsp; |
 
 Ціни у таблиці вказані за одну годину.
 
