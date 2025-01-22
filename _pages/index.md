@@ -21,6 +21,7 @@ permalink: /
 - [[Погодинна няня|Погодинна няня]]
 - [[Няня на постійну основу|Няня на постійну основу]]
 
+Правила Агенції можна знайти [[Rules|тут]].
 ## Для нянь
 
 Якщо Ви хочете співпрацювати з нами як няня, то можете подати заявку на розгляд Вашої кандидатури за цим [посиланням](https://docs.google.com/forms/d/1voS_bbQdIlSYblJ-mQ7svLj_PKr6b9o8ErTby2uRNmk/viewform?fbclid=PAZXh0bgNhZW0CMTEAAaY3BDP3AmwGJTyLiHw-0oidTFn6uzyt3-h_jQe2NaLxeRLtn528_BNh3qQ_aem_WsmAOhr-c3yNksW-zReDUg&edit_requested=true).
